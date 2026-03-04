@@ -1,1 +1,1 @@
-# File-Size-Analyzer
+# Folder-Size-Analyzer
